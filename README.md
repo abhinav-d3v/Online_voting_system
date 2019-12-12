@@ -13,7 +13,6 @@ The main objective of the project on Online Voting System database is to manage 
 username ```abhinav.17.becs@gmail.com```
 password ```admin```
 ### ScreenShot
-![Login Page](https://i.ibb.co/zRcgYNK/admin-page.png)
 #### Admin Login Page
 ```http://localhost/online_voting/admin/```
 
